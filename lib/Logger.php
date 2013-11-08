@@ -23,6 +23,9 @@ class Logger
             case 'file':
                 $this->_setOWorker(new FileDriver());
                 break;
+            default:
+                throw new Exception('Wrong driver selected');
+                break;
         }
 
     }

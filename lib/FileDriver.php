@@ -30,7 +30,7 @@ class FileDriver implements IDriver
     {
         if(!file_exists($this->_logFile)){
             if(!fopen($this->_logFile, 'w'))
-                throw new Exception('Cannot create log file. Check access.');
+                throw new Exception('Cannot create log file. Try create file manually and check access.');
         }
     }
 

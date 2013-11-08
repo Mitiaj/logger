@@ -1,38 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/lib/MysqlDriver.php" line="7" mnemonic="1" />
-    <bookmark url="file://$PROJECT_DIR$/lib/MysqlDriver.php" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/lib/MysqlDriver.php" line="107" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/lib/MysqlDriver.php" line="132" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a80d2629-d49c-4468-abe4-41f36b641032" name="Default" comment="added loader, defined logger">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\logger.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\magicento.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\htdocs\local\logger\.idea\workspace.xml" afterPath="" />
+    <list default="true" id="a80d2629-d49c-4468-abe4-41f36b641032" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/FileDriver.php" afterPath="$PROJECT_DIR$/lib/FileDriver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loader.php" afterPath="$PROJECT_DIR$/Loader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/Logger.php" afterPath="$PROJECT_DIR$/lib/Logger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/MysqlDriver.php" afterPath="$PROJECT_DIR$/lib/MysqlDriver.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="logger.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/" />
     <file path="/IDriver.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383915012876" ignored="false" />
-    <file path="/Dummy.txt" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383916845046" ignored="false" />
-    <file path="/MysqlDriver.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383919834850" ignored="false" />
+    <file path="/Dummy.txt" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383926349984" ignored="false" />
+    <file path="/MysqlDriver.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383926204867" ignored="false" />
     <file path="/FileDriver.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383920112147" ignored="false" />
-    <file path="/Logger.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383917232242" ignored="false" />
+    <file path="/Logger.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383925384792" ignored="false" />
     <file path="/Loader.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383919565064" ignored="false" />
-    <file path="/index.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383920233831" ignored="false" />
+    <file path="/index.php" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383923740043" ignored="false" />
     <file path="/.gitignore" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383916654975" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a80d2629-d49c-4468-abe4-41f36b641032" time="1383920336558" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +52,7 @@
       <file leaf-file-name="Logger.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/Logger.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="25" selection-start="347" selection-end="347" vertical-scroll-proportion="-12.423077">
+            <state line="27" column="22" selection-start="633" selection-end="633" vertical-scroll-proportion="-17.653847">
               <folding />
             </state>
           </provider>
@@ -82,7 +70,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.44402984">
+            <state line="13" column="19" selection-start="300" selection-end="300" vertical-scroll-proportion="0.47939262">
               <folding />
             </state>
           </provider>
@@ -91,7 +79,7 @@
       <file leaf-file-name="app.log" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+            <state line="16" column="21" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -100,7 +88,7 @@
       <file leaf-file-name="MysqlDriver.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/MysqlDriver.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.65384614">
+            <state line="118" column="21" selection-start="2455" selection-end="2455" vertical-scroll-proportion="-77.15385">
               <folding />
             </state>
           </provider>
@@ -109,7 +97,7 @@
       <file leaf-file-name="FileDriver.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/FileDriver.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="12" selection-start="1341" selection-end="1341" vertical-scroll-proportion="-40.53846">
+            <state line="32" column="87" selection-start="647" selection-end="649" vertical-scroll-proportion="-7.269231">
               <folding />
             </state>
           </provider>
@@ -135,16 +123,17 @@
       <list>
         <option value="$PROJECT_DIR$/lib/IDriver.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/lib/Logger.php" />
         <option value="$PROJECT_DIR$/Loader.php" />
-        <option value="$PROJECT_DIR$/lib/MysqlDriver.php" />
-        <option value="$PROJECT_DIR$/lib/FileDriver.php" />
         <option value="$PROJECT_DIR$/app.log" />
+        <option value="$PROJECT_DIR$/lib/Logger.php" />
+        <option value="$PROJECT_DIR$/lib/MysqlDriver.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/lib/FileDriver.php" />
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpDebugGeneral" xdebug_show_addresses="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="5.3" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
@@ -217,6 +206,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -232,7 +222,17 @@
       </server>
     </servers>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MysqlDriver.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lib/MysqlDriver.php">
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -243,7 +243,16 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="0" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.MysqlDriver.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.MysqlDriver.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
@@ -277,7 +286,19 @@
       <created>1383916661188</created>
       <updated>1383916661188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added file driver">
+      <created>1383920402116</created>
+      <updated>1383920402116</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added mysql driver">
+      <created>1383925932492</created>
+      <updated>1383925932492</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added mysql driver">
+      <created>1383926354247</created>
+      <updated>1383926354247</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -290,8 +311,8 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.872449" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12755102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -347,7 +368,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added loader, defined logger" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mysql driver" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -362,10 +383,21 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="added loader, defined logger" />
+    <MESSAGE value="added file driver" />
+    <MESSAGE value="added mysql driver" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <dependency master-id="0" />
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -383,16 +415,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Logger.php">
+    <entry file="file://$PROJECT_DIR$/app.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="25" selection-start="347" selection-end="347" vertical-scroll-proportion="-12.423077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/MysqlDriver.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.65384614">
+        <state line="16" column="21" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -404,23 +429,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.log">
+    <entry file="file://$PROJECT_DIR$/lib/Logger.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+        <state line="27" column="22" selection-start="633" selection-end="633" vertical-scroll-proportion="-17.653847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/MysqlDriver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="21" selection-start="2455" selection-end="2455" vertical-scroll-proportion="-77.15385">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/FileDriver.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="12" selection-start="1341" selection-end="1341" vertical-scroll-proportion="-40.53846">
+        <state line="32" column="87" selection-start="647" selection-end="649" vertical-scroll-proportion="-7.269231">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.44402984">
+        <state line="13" column="19" selection-start="300" selection-end="300" vertical-scroll-proportion="0.47939262">
           <folding />
         </state>
       </provider>
