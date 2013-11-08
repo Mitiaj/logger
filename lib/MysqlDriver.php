@@ -1,4 +1,5 @@
 <?php
+require_once 'IDriver.php';
 /**
  * Class MysqlDriver
  */

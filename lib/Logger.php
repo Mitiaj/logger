@@ -6,7 +6,7 @@ class Logger
     /**
      * @param IDriver $oWorker
      */
-    private function setOWorker(IDriver $oWorker)
+    private function _setOWorker(IDriver $oWorker)
     {
         $this->oWorker = $oWorker;
     }
@@ -18,10 +18,10 @@ class Logger
     {
         switch(strtolower($sDriver)){
             case 'mysql':
-                $this->setOWorker(new MysqlDriver());
+                $this->_setOWorker(new MysqlDriver());
                 break;
             case 'file':
-                $this->setOWorker(new FileDriver());
+                $this->_setOWorker(new FileDriver());
                 break;
         }
 

@@ -6,7 +6,8 @@ class Loader{
             if ($file != '.' && $file !='..'){
                 $arr = explode('.',$file);
                 if($arr[count($arr) - 1] =="php")
-                    require_once('lib/'.$file);
+                    if(!require_once((__DIR__).'/lib/'.$file))
+                        throw new Exception('Error loading classes');
             }
         }
     }
