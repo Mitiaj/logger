@@ -1,7 +1,9 @@
 <?php
-class FileDriver implements IDriver
+/**
+ * Class MysqlDriver
+ */
+class MysqlDriver implements IDriver
 {
-
     public function saveLogMsg($sLogMsg)
     {
         // TODO: Implement saveLogMsg() method.
